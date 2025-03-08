@@ -1,7 +1,7 @@
 # Winsnip Token Discord
+Ekstensi Chrome untuk mengambil Token Discord secara otomatis dan Login Discord Pakai Token.
 
-Ekstensi Chrome untuk mengambil Bearer Token secara otomatis.
-
+![Screenshot](https://github.com/winsnip/Winsnip-Token-Discord/blob/main/sc.PNG)
 ## 📥 Download & Instalasi
 1. **Download** file ekstensi dalam format `.rar`.
 2. **Ekstrak** file `.rar`.
